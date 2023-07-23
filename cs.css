@@ -1,0 +1,32 @@
+@charset "utf-8";
+/* CSS Document */
+body {
+  background-color: lightblue;
+}
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+ 
+}
+.nav-wrapper {
+	background-color: darkmagenta;
+}
+.container p {
+  text-align: center; 
+}
+ol {
+  list-style-type: disc;
+  margin: 0;
+  padding: 0;
+}
+
+li {
+  color: #333;
+  font-size: 16px;
+  line-height: 1.5;
+}
+.scaled-image {
+  transform: scale(0.5); /* Adjust as needed */
+}.s5 {
+}
